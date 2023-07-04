@@ -14,7 +14,7 @@ Passionate and committed to everything I believe in, self-taught, tireless worke
 [<img src="https://github.com/gdrgdev/gdrgdev/blob/main/Twitter.png" alt="twitter" width="25"></img>](https://twitter.com/gdrenteria) &nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/gdrgdev/gdrgdev/blob/main/Instagram.png" alt="instagram" width="25"></img>](https://www.instagram.com/gdrgforeign) &nbsp;&nbsp;&nbsp;
 
-### Conocimiento
+### Se dice que se un poco de  
 ![AL](https://img.shields.io/badge/-AL-black?style=flat-square&logo=Microsoft)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub)
 ![DevOps](https://img.shields.io/badge/-DevOps-black?style=flat-square&logo=Azure-DevOps)
