@@ -1,5 +1,5 @@
 <a href="https://gerardorenteria.blog/" style="width:100%">
-    <img src="https://github.com/gdrgdev/gdrgdev/blob/main/Awolfprogrammercompiling.png" width="100%" alt="header" border="0" />
+    <img src="https://github.com/gdrgdev/gdrgdev/blob/main/AwolfprogrammercompilingLittle.png" width="100%" alt="header" border="0" />
 </a>
 
 ### Acerca de mi
