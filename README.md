@@ -13,8 +13,10 @@ Passionate and committed to everything I believe in, self-taught, tireless worke
 [<img src="https://github.com/gdrgdev/gdrgdev/blob/main/Linkedin.png" alt="linkedin" width="25"></img>](https://linkedin.com/in/gdrenteria) &nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/gdrgdev/gdrgdev/blob/main/Twitter.png" alt="twitter" width="25"></img>](https://twitter.com/gdrenteria) &nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/gdrgdev/gdrgdev/blob/main/Instagram.png" alt="instagram" width="25"></img>](https://www.instagram.com/gdrgforeign) &nbsp;&nbsp;&nbsp;
+[<img src="https://github.com/gdrgdev/gdrgdev/blob/main/webpage.png" alt="blog" width="25"></img>](https://gerardorenteria.blog/) &nbsp;&nbsp;&nbsp;
 
-### Se dice que se un poco de  
+### 
+[<img src="https://github.com/gdrgdev/gdrgdev/blob/main/idea.png" alt="blog" width="25"></img>]  
 ![AL](https://img.shields.io/badge/-AL-black?style=flat-square&logo=Microsoft)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub)
 ![DevOps](https://img.shields.io/badge/-DevOps-black?style=flat-square&logo=Azure-DevOps)
