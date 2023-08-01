@@ -17,6 +17,7 @@ Passionate and committed to everything I believe in, self-taught, tireless worke
 
 ### 
 <img src="https://github.com/gdrgdev/gdrgdev/blob/main/idea.png" alt="blog" width="22"></img>
+### 
 ![AL](https://img.shields.io/badge/-AL-black?style=flat-square&logo=Microsoft)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub)
 ![DevOps](https://img.shields.io/badge/-DevOps-black?style=flat-square&logo=Azure-DevOps)
