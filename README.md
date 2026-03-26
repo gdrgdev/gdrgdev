@@ -9,6 +9,11 @@ Developer, Consultant, Solution Architect, hardworker, hungry for knowledge, ama
 <br>
 Passionate and committed to everything I believe in, self-taught, tireless worker to achieve the established goals and with a great sense of valuing human capital..
 
+
+If you buy me a coffee, I'm sure it will help me stay awake and keep contributing 🙂
+<br>
+<a href="https://www.buymeacoffee.com/gdrenteria" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 109px !important;" ></a>
+
 ### Redes Sociales
 [<img src="https://github.com/gdrgdev/gdrgdev/blob/main/Linkedin.png" alt="linkedin" width="25"></img>](https://linkedin.com/in/gdrenteria) &nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/gdrgdev/gdrgdev/blob/main/Twitter.png" alt="twitter" width="25"></img>](https://twitter.com/gdrenteria) &nbsp;&nbsp;&nbsp;
